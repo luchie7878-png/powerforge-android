@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.abacusai.powerforge",
+      "sha256_cert_fingerprints": [
+        "C4:0D:5F:E3:B5:88:50:CD:1B:55:F2:98:97:C5:E0:0E:3A:35:3B:07:08:29:F5:1D:84:6F:70:03:F8:B6:96:A2"
+      ]
+    }
+  }
+]

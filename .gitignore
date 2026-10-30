@@ -1,0 +1,22 @@
+# Signing secrets — NEVER commit
+keystore/
+keystore/*.jks
+keystore/*.properties
+*.jks
+*.keystore
+
+# Local SDK path
+local.properties
+
+# Build outputs / binaries
+*.aab
+*.apk
+release/
+.gradle/
+build/
+app/build/
+
+# IDE / OS
+.idea/
+*.iml
+**/.DS_Store
